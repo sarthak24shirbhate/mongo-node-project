@@ -1,0 +1,19 @@
+# Commit Title (keep under 60 characters)
+
+## Description of Changes
+- What was added/modified/deleted?
+
+## Category
+[ ] Feature  
+[ ] Bug Fix  
+[ ] Documentation  
+[ ] Optimization  
+[ ] Refactor  
+[ ] Deployment  
+
+## Testing Done
+- Commands used
+- Validations performed
+
+Set template:
+git config commit.template .github/commit_template.txt
